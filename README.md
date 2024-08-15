@@ -1,5 +1,5 @@
 <!-- trunk-ignore-all(prettier) -->
-# 14/08/2024 – PYTHON SQLAlchemy 
+# 15/08/2024 – PYTHON SQLAlchemy 
 
 ## 5683. INTRODUÇÃO
 
